@@ -14,6 +14,7 @@ The python libraries used in the project were:
     pydeck 
     plotly
 
+To download the dataset used access the link [here](https://drive.google.com/file/d/1805EaA2VKsx33fqJg-Qh-EM9GIVTvLn6/view?usp=sharing)
 
 ## Running
 
