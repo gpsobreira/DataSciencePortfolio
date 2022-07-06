@@ -1,6 +1,5 @@
 # cd "OneDrive\Área de Trabalho\Faculdade\03. Cursos\07.streamlit"
 
-from select import select
 import streamlit as st
 import pandas as pd
 import numpy as np
